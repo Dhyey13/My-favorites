@@ -1,0 +1,26 @@
+html {
+  background-color: rgb(72, 157, 185);
+}
+
+body {
+  margin: 25px auto;
+  width: 400px;
+  border: solid 5px;
+  border-radius: 100px;
+  padding: auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 25px 75px 75px;
+  background-color: rgb(54, 110, 212);
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  border: solid 5px;
+  border-radius: 40px;
+}
